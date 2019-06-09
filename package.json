@@ -1,0 +1,23 @@
+{
+  "name": "kosimpletax",
+  "version": "1.0.0",
+  "description": "korea simple tax for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ho9science/kosimpletaxjs.git"
+  },
+  "keywords": [
+    "kosimpletax",
+    "tax"
+  ],
+  "author": "samdasu.hyeonki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ho9science/kosimpletaxjs/issues"
+  },
+  "homepage": "https://github.com/ho9science/kosimpletaxjs#readme"
+}
